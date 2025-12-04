@@ -1,4 +1,6 @@
-Stanford BSCS ’23 → Stanford MSCS ’24 → Data Science @ Candidly
+Stanford BSCS ’23 → Stanford MSCS ’24
+
+SWE @ Cogent
 
 I think about how to manage LLM context windows way too much.
 
